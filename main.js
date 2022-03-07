@@ -40,6 +40,9 @@ console.log('JS OK!')
 //     hamburgerMenu.classList.remove('active');
 // })
 
+
+
+
 // **************3o METODO*************
 //variabili da configurare
 
